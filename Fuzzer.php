@@ -1,6 +1,6 @@
 
-  <html>
-    <head>
+<html>
+<head>
 
 <?
 
@@ -432,9 +432,9 @@ $styletag = array(
 	
 	$method_blocks 		= rand(1,count($methods));
 	$style_enthrophy 	= rand(1,12);
-	$dscount				= count($distort);
-	$feedback				= array('OVERDRIVE','FUZZY');
-	$lng						= array('<','>');
+	$dscount		= count($distort);
+	$feedback		= array('OVERDRIVE','FUZZY');
+	$lng			= array('<','>');
 	
 	shuffle($distort);
 	shuffle($methods);
