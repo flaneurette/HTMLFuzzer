@@ -4,8 +4,6 @@
 
 <?
 
-/*
-
 $smash	= array(
 	-1,
 	10000,
@@ -464,6 +462,4 @@ $styletag = array(
 	echo "\r\n\r\n";
 	
 	// EOF
-	
-	*/
 ?>
